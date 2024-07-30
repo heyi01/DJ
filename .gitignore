@@ -1,0 +1,22 @@
+
+### Go template
+# Binaries for programs and plugins
+*.o
+*.a
+*.so
+ 
+# Test binary, built with `go test -c`
+Thumbs.db
+.DS_Store
+ 
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.cert
+*.key
+*.log
+bin/
+ 
+# Dependency directories (remove the comment below to include it)
+# vendor/
+.vscode/ 
+.idea/
+*.xml
